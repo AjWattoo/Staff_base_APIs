@@ -23,6 +23,8 @@ profile-field:firstName,profile-field:lastName,profile-field:position,eMail
 
 **Answer:** [Solution](/Problem_2.md)
 
+## Question 3
+
 While our CSV import feature is pretty cool and easy after setup, it doesn’t support uploading
 profile pictures. To help a customer with it, create a script that utilizes our REST API:
 
